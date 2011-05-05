@@ -1,0 +1,8 @@
+<?php
+define('SP_API_KEY','savvypennyneedsabetterkey');
+//define('SP_API_URL','http://staging.savvypenny.com/api/internal');
+define('SP_API_URL','http://aldo.savvypenny.com:3000/api/internal');
+define('SP_FORMAT','json'); 
+define('SP_LOGIN','gvs'); 
+define('SP_PASSWORD','123456');
+?>
